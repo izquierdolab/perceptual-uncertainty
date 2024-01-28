@@ -1,5 +1,5 @@
 # perceptual-uncertainty
-This file provides brief descriptions of schedules and only critical variables within schedules. Contact astolyarova@psych.ucla.edu with questions about schedules and all other variables. Please also email astolyarova@psych.ucla.edu for help with changing/modifying these schedules or to request additional versions of existing tasks (e.g., small changes have been made throughout the years for efficiency and improvement, if interested in a particular version of the task, please email and I’ll provide that version if it had been used by us previously).
+This file provides brief descriptions of schedules and only critical variables within schedules. Contact aizquie@psych.ucla.edu with questions about schedules and all other variables. Please also email aizquie@psych.ucla.edu for help with changing/modifying these schedules or to request additional versions of existing tasks (e.g., small changes have been made throughout the years for efficiency and improvement, if interested in a particular version of the task, please email and I’ll provide that version if it had been used by us previously).
 
 Pre-training:
 Phase1: Habituation phase, delivers 5 pellets and tracks screen touches.
@@ -22,4 +22,4 @@ Presented Gabor stimuli can be changed by linking images to the Gabor_images lis
 To modify delay to rewards on reinforced trials, change the values in reward_delay list. For example, values of delay to reward can be generated in MatLab according to the desired distribution and then copied into the reward_delay list through insert->add values->specify with delimiter.
 To change the amount of time that is given to rats to indicate their choice after response stimulus presentation, choice_time variable can be modified. 
 
-Please contact us (astolyarova@psych.ucla.edu) with questions, or requests for additional changes, modifications and versions.
+Please contact us (aizquie@psych.ucla.edu) with questions, or requests for additional changes, modifications and versions.
